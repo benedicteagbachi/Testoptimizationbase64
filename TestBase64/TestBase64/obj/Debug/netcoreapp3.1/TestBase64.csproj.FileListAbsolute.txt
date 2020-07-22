@@ -1,0 +1,13 @@
+D:\visual studio\TestBase64\TestBase64\bin\Debug\netcoreapp3.1\TestBase64.exe
+D:\visual studio\TestBase64\TestBase64\bin\Debug\netcoreapp3.1\TestBase64.deps.json
+D:\visual studio\TestBase64\TestBase64\bin\Debug\netcoreapp3.1\TestBase64.runtimeconfig.json
+D:\visual studio\TestBase64\TestBase64\bin\Debug\netcoreapp3.1\TestBase64.runtimeconfig.dev.json
+D:\visual studio\TestBase64\TestBase64\bin\Debug\netcoreapp3.1\TestBase64.dll
+D:\visual studio\TestBase64\TestBase64\bin\Debug\netcoreapp3.1\TestBase64.pdb
+D:\visual studio\TestBase64\TestBase64\obj\Debug\netcoreapp3.1\TestBase64.csprojAssemblyReference.cache
+D:\visual studio\TestBase64\TestBase64\obj\Debug\netcoreapp3.1\TestBase64.AssemblyInfoInputs.cache
+D:\visual studio\TestBase64\TestBase64\obj\Debug\netcoreapp3.1\TestBase64.AssemblyInfo.cs
+D:\visual studio\TestBase64\TestBase64\obj\Debug\netcoreapp3.1\TestBase64.csproj.CoreCompileInputs.cache
+D:\visual studio\TestBase64\TestBase64\obj\Debug\netcoreapp3.1\TestBase64.dll
+D:\visual studio\TestBase64\TestBase64\obj\Debug\netcoreapp3.1\TestBase64.pdb
+D:\visual studio\TestBase64\TestBase64\obj\Debug\netcoreapp3.1\TestBase64.genruntimeconfig.cache
